@@ -1,4 +1,4 @@
-#owens ugly
+
 #HuntTheWumpus.py
 #Wumpus World driver
 #COSC370, Project 1
